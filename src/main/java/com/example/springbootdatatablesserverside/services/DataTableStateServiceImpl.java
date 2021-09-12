@@ -12,7 +12,7 @@ import java.util.List;
  * @author Gullian Van Der Walt
  * Created at 08:33 on Sep, 2021
  */
-@Service("DataTablesStatesService")
+@Service("DataTablesStateService")
 public class DataTableStateServiceImpl implements DataTableStateService{
 
     private final DataTableStateRepository dataTableStateRepository;
